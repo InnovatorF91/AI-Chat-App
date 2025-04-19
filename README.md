@@ -45,6 +45,6 @@ AIチャットアプリはUnityで作られたAIチャットアプリケーシ�
 7. ログ保存先：C:\Users\［UserName］\AppData\LocalLow\ZouJiatai\AI Chat App
 ---
 
-## 特別感謝　Special Thanks
+## **特別感謝　Special Thanks**
 OpenAi-Api by srcnalt https://github.com/srcnalt
 DeepSeek-Api by yagizeraslan https://github.com/yagizeraslan
