@@ -28,3 +28,5 @@
 *.mixer filter=lfs diff=lfs merge=lfs -text
 *.inputactions filter=lfs diff=lfs merge=lfs -text
 *.physicMaterial filter=lfs diff=lfs merge=lfs -text
+*.uss filter=lfs diff=lfs merge=lfs -text
+*.uxml filter=lfs diff=lfs merge=lfs -text
