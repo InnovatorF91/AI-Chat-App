@@ -34,7 +34,7 @@ AIチャットアプリはUnityで作られたAIチャットアプリケーシ�
 - ✅ [DeepSeek API Key](https://platform.deepseek.com/api_keys)
 
 ### クイックスタート Quick Start
---bash--
+```bash
 1.このプロジェクトをクローンするか、zipをダウンロードする
 2.Unityを使ってプロジェクトを開く
 3.`Main.unity`シーンを開く
@@ -42,7 +42,7 @@ AIチャットアプリはUnityで作られたAIチャットアプリケーシ�
 5.https://github.com/srcnalt/OpenAI-Unity。リポジトリ内の対応するライブラリをロードする必要があるかもしれません。具体的なロード方法については、リポジトリの Readme を参照してください。
 6. 再生ボタンをクリックすると、AI との会話が始まります。
 7. ログ保存先：C:\Users\［UserName］\AppData\LocalLow\ZouJiatai\AI Chat App
---bash--
+```
 
 ## **特別感謝　Special Thanks**
 OpenAi-Api by srcnalt https://github.com/srcnalt
