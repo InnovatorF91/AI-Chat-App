@@ -41,6 +41,7 @@ AIチャットアプリはUnityで作られたAIチャットアプリケーシ�
 4.`ChatGPTService.cs`にAPI Keyを記入する
 5.https://github.com/srcnalt/OpenAI-Unity。リポジトリ内の対応するライブラリをロードする必要があるかもしれません。具体的なロード方法については、リポジトリの Readme を参照してください。
 6. 再生ボタンをクリックすると、AI との会話が始まります。
+7. ログ保存先：C:\Users\［UserName］\AppData\LocalLow\ZouJiatai\AI Chat App
 
 ### 特別感謝　Special Thanks
 OpenAi-Api by srcnalt https://github.com/srcnalt
