@@ -1,4 +1,4 @@
-# 📁 リリース版をダウンロードするには、以下にアクセスしてください。 https://github.com/InnovatorF91/AI-Chat-App/releases/tag/v1.0.0-beta
+## 📁 リリース版をダウンロードするには、以下にアクセスしてください。 https://github.com/InnovatorF91/AI-Chat-App/releases/tag/v1.0.0-beta
 
 # 🧠 AI Chat App – UnityのマルチモーダルAI対話システム。
 
@@ -45,6 +45,6 @@ AIチャットアプリはUnityで作られたAIチャットアプリケーシ�
 7. ログ保存先：C:\Users\［UserName］\AppData\LocalLow\ZouJiatai\AI Chat App
 ---
 
-### 特別感謝　Special Thanks
+## 特別感謝　Special Thanks
 OpenAi-Api by srcnalt https://github.com/srcnalt
 DeepSeek-Api by yagizeraslan https://github.com/yagizeraslan
