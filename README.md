@@ -1,7 +1,5 @@
 # 🧠 AI Chat App – Unity製作的多模態AI對話系統
 
-![screenshot](https://github.com/InnovatorF91/AI-Chat-App/raw/main/docs/screenshot.jpg)
-
 AI Chat App 是一款使用 Unity 製作的 AI 對話應用，支援文字、圖片生成、圖片拖入顯示與模型切換，並整合 OpenAI API，可作為桌面應用獨立運行。
 
 > This project is designed as a professional showcase for interviews and demonstration purposes.
@@ -24,10 +22,7 @@ AI Chat App 是一款使用 Unity 製作的 AI 對話應用，支援文字、圖
 
 | 對話畫面 | 圖片生成 | 模型切換 |
 |----------|----------|----------|
-| ![image](https://github.com/user-attachments/assets/4342f476-f3b8-4910-9251-d224bb94694d)
- | ![image](https://github.com/user-attachments/assets/07f03056-041e-40af-ba01-39a26e6b96d4)
- |![image](https://github.com/user-attachments/assets/119f8ee2-fdad-48a8-8977-ed661c73972a)
-|
+| ![image](https://github.com/user-attachments/assets/4342f476-f3b8-4910-9251-d224bb94694d)|![image](https://github.com/user-attachments/assets/07f03056-041e-40af-ba01-39a26e6b96d4)|![image](https://github.com/user-attachments/assets/119f8ee2-fdad-48a8-8977-ed661c73972a)|
 
 ---
 
