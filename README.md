@@ -29,7 +29,7 @@ AIチャットアプリはUnityで作られたAIチャットアプリケーシ�
 
 ### 環境条件 Requirements
 
-- ✅ Unity 2020.3+ (建議使用 Unity Hub)
+- ✅ Unity 2020.3+ (おすすめ Unity Hub)
 - ✅ [OpenAI API Key](https://platform.openai.com/account/api-keys)
 - ✅ [DeepSeek API Key](https://platform.deepseek.com/api_keys)
 
