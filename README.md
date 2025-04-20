@@ -45,5 +45,5 @@ AIチャットアプリはUnityで作られたAIチャットアプリケーシ�
 ```
 
 ## **特別感謝　Special Thanks**
-OpenAi-Api by srcnalt https://github.com/srcnalt
-DeepSeek-Api by yagizeraslan https://github.com/yagizeraslan
+###### OpenAi-Api by srcnalt https://github.com/srcnalt
+###### DeepSeek-Api by yagizeraslan https://github.com/yagizeraslan
